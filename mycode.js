@@ -1,3 +1,3 @@
 alert("hello world");
-var numberOfPies = 5;
-console.log(numberOfPies);
+var numberOfKittens = 5;
+    console.log (numberOfKittens);
