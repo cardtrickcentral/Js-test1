@@ -1,3 +1,5 @@
 alert("hello world");
-var numberOfKittens = 5;
-    document.write (numberOfKittens);
+<script>
+    var numberOfKittens = 5;
+    console.log (numberOfKittens);
+</script>
